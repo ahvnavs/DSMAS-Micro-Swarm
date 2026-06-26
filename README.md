@@ -2,7 +2,7 @@
   title={Architecture of Decentralized Spatial Multi-Agent Systems: Lightweight Swarms, Proximity Routing, and Stigmergic Coordination},
   author={[Abhinav Sharma]},
   year={2026},
-  url={[https://github.com/ahvnavs/DSMAS-Micro-Swarm](https://github.com/ahvnav/DSMAS-Micro-Swarm)}
+  url={[https://github.com/ahvnavs/DSMAS-Micro-Swarm.git](https://github.com/ahvnavs/DSMAS-Micro-Swarm.git)}
 }
 
 # DSMAS: Decentralized Spatial Multi-Agent System
